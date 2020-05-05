@@ -11,3 +11,5 @@
 ### CSS
 [Triggers](https://csstriggers.com/)<br />
 
+### Colors
+[Paletton](https://paletton.com/)<br />
