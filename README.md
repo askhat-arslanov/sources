@@ -8,6 +8,9 @@
 ### Images
 [Unsplash](https://unsplash.com/)<br />
 
+### Videos
+[Coverr](https://coverr.co/)<br />
+
 ### CSS
 [Triggers](https://csstriggers.com/)<br />
 
