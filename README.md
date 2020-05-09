@@ -16,3 +16,6 @@
 
 ### Colors
 [Paletton](https://paletton.com/)<br />
+
+### Diagrams
+[Diagrams](https://app.diagrams.net/)<br />
