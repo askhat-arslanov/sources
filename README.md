@@ -20,4 +20,7 @@
 ### Diagrams
 [Diagrams](https://app.diagrams.net/)<br />
 
+### Other
+
 [Delayed queries](https://httpbin.org/delay/3)<br />
+[Motherfuckingwebsite](http://motherfuckingwebsite.com/)<br />
